@@ -1,9 +1,8 @@
-#include <unordered_map>
-#include <unordered_set>
+
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_map<int, unordered_set<int>> rows, cols;
+        map<int, unordered_set<int>> rows, cols;
         map<pair<int, int>, unordered_set<int>> sq;
 
         for (int i = 0; i < 9; i++) {
