@@ -40,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/rudracodeshere/leetcodinnng/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rudracodeshere/leetcodinnng/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rudracodeshere/leetcodinnng/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0015-3sum](https://github.com/rudracodeshere/leetcodinnng/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/rudracodeshere/leetcodinnng/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudracodeshere/leetcodinnng/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudracodeshere/leetcodinnng/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
