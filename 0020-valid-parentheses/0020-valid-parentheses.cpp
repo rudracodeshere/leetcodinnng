@@ -2,29 +2,15 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
+        map<char, char> mp = {{')', '('}, {'}', '{'}, {']', '['}};
         for (char ch : s) {
-            if (ch == ')' || ch == '}' || ch == ']') {
-                if (st.empty())
+            if (mp.count(ch)) {
+                if (!st.empty() && st.top() == mp[ch])
+                    st.pop();
+                else
                     return false;
-                else if (ch == ')') {
-                    if (st.top() == '(')
-                        st.pop();
-                    else
-                        break;
-                } else if (ch == '}') {
-                    if (st.top() == '{')
-                        st.pop();
-                    else
-                        break;
-                } else if (ch == ']') {
-                    if (st.top() == '[')
-                        st.pop();
-                    else
-                        break;
-                }
-            } else {
+            } else
                 st.push(ch);
-            }
         }
         return st.empty();
     }
