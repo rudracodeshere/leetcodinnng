@@ -1,14 +1,12 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int l = 1;
         int r = *max_element(piles.begin(), piles.end());
         int res = r;
-
+        int l = 1;
         while (l <= r) {
             int k = (l + r) / 2;
-
-            long long totalTime = 0;
+           long long totalTime = 0;
             for (int p : piles) {
                 totalTime += ceil(static_cast<double>(p) / k);
             }
