@@ -11,6 +11,7 @@ public:
         string ans;
         int l = 0;
         int r = mp[key].size() - 1;
+        //vector<pair<string, int>> hjk = mp[key];
         while (l <= r) {
             int mid = (l + r) / 2;
             if (mp[key][mid].second == timestamp) {
