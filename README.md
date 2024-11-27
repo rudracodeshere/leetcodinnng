@@ -178,4 +178,20 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rudracodeshere/leetcodinnng/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
