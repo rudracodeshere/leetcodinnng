@@ -21,9 +21,8 @@ public:
             return 1 + util(root->left, maxBefore) +
                    util(root->right, maxBefore);
         }
-        int leftCount = util(root->left, maxBefore);
-        int rightCount = util(root->right, maxBefore);
-        return leftCount + rightCount;
+
+        return util(root->left, maxBefore) + util(root->right, maxBefore);
     }
     int goodNodes(TreeNode* root) { return util(root, INT_MIN); }
 };
