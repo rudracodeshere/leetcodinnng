@@ -138,6 +138,7 @@
 | [0020-valid-parentheses](https://github.com/rudracodeshere/leetcodinnng/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rudracodeshere/leetcodinnng/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rudracodeshere/leetcodinnng/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudracodeshere/leetcodinnng/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rudracodeshere/leetcodinnng/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/rudracodeshere/leetcodinnng/tree/master/0739-daily-temperatures) |
@@ -184,6 +185,7 @@
 | [0100-same-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/rudracodeshere/leetcodinnng/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudracodeshere/leetcodinnng/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -196,6 +198,7 @@
 | [0100-same-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/rudracodeshere/leetcodinnng/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudracodeshere/leetcodinnng/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -215,6 +218,7 @@
 | [0100-same-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/rudracodeshere/leetcodinnng/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudracodeshere/leetcodinnng/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -234,4 +238,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudracodeshere/leetcodinnng/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
