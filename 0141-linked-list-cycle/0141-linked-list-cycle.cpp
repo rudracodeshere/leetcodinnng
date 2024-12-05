@@ -19,15 +19,15 @@ public:
         //     temp = temp->next;
         // }
         // return false;
-        if(head == NULL)return false;
 
-        ListNode* fast = head->next;
+        ListNode* fast = head;
         ListNode* slow = head;
         while (fast && fast->next) {
-            if (fast == slow)
-                return true;
+
             fast = fast->next->next;
             slow = slow->next;
+            if (fast == slow)
+                return true;
         }
         return false;
     }
