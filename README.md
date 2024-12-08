@@ -81,6 +81,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/rudracodeshere/leetcodinnng/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/rudracodeshere/leetcodinnng/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/rudracodeshere/leetcodinnng/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rudracodeshere/leetcodinnng/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rudracodeshere/leetcodinnng/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rudracodeshere/leetcodinnng/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/rudracodeshere/leetcodinnng/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -205,6 +207,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rudracodeshere/leetcodinnng/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -244,6 +247,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rudracodeshere/leetcodinnng/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -258,6 +262,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudracodeshere/leetcodinnng/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudracodeshere/leetcodinnng/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rudracodeshere/leetcodinnng/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -287,4 +292,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rudracodeshere/leetcodinnng/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/rudracodeshere/leetcodinnng/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
