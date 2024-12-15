@@ -7,7 +7,7 @@ public:
         return res;
     }
 
-    void dfs(vector<int>& nums, vector<vector<int>>& res, vector<int>& sub,
+    void dfs(vector<int>& nums, vector<vector<int>>& res, vector<int> sub,
              int i) {
         if (i >= nums.size()) {
             res.push_back(sub);
@@ -16,6 +16,6 @@ public:
         dfs(nums, res, sub, i + 1);
         sub.push_back(nums[i]);
         dfs(nums, res, sub, i + 1);
-        sub.pop_back();
+        //sub.pop_back();
     }
 };
