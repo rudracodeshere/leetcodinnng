@@ -61,6 +61,7 @@
 | [0567-permutation-in-string](https://github.com/rudracodeshere/leetcodinnng/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rudracodeshere/leetcodinnng/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/rudracodeshere/leetcodinnng/tree/master/1023-time-based-key-value-store) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rudracodeshere/leetcodinnng/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rudracodeshere/leetcodinnng/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rudracodeshere/leetcodinnng/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/rudracodeshere/leetcodinnng/tree/master/1023-time-based-key-value-store) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rudracodeshere/leetcodinnng/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudracodeshere/leetcodinnng/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rudracodeshere/leetcodinnng/tree/master/0621-task-scheduler) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rudracodeshere/leetcodinnng/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Quickselect
 |  |
 | ------- |
