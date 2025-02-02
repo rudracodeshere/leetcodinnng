@@ -23,6 +23,7 @@
 | [0079-word-search](https://github.com/rudracodeshere/leetcodinnng/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rudracodeshere/leetcodinnng/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rudracodeshere/leetcodinnng/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/rudracodeshere/leetcodinnng/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rudracodeshere/leetcodinnng/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudracodeshere/leetcodinnng/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rudracodeshere/leetcodinnng/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rudracodeshere/leetcodinnng/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/rudracodeshere/leetcodinnng/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/rudracodeshere/leetcodinnng/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0392-is-subsequence) |
 ## Stack
