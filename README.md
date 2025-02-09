@@ -19,6 +19,7 @@
 | [0046-permutations](https://github.com/rudracodeshere/leetcodinnng/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rudracodeshere/leetcodinnng/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rudracodeshere/leetcodinnng/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/rudracodeshere/leetcodinnng/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rudracodeshere/leetcodinnng/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rudracodeshere/leetcodinnng/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rudracodeshere/leetcodinnng/tree/master/0078-subsets) |
@@ -57,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudracodeshere/leetcodinnng/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/rudracodeshere/leetcodinnng/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rudracodeshere/leetcodinnng/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rudracodeshere/leetcodinnng/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/rudracodeshere/leetcodinnng/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rudracodeshere/leetcodinnng/tree/master/0133-clone-graph) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rudracodeshere/leetcodinnng/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/rudracodeshere/leetcodinnng/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rudracodeshere/leetcodinnng/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rudracodeshere/leetcodinnng/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rudracodeshere/leetcodinnng/tree/master/0130-surrounded-regions) |
