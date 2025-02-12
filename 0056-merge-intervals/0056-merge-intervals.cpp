@@ -8,7 +8,6 @@ public:
             int current_start = intervals[i][0];
             int current_end = intervals[i][1];
             int final_end = current_end;
-            i++;
             while(i<n && intervals[i][0]<=final_end){
                 final_end = max(final_end,intervals[i][1]);
                 i++;
