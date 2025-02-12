@@ -27,6 +27,7 @@
 | [0078-subsets](https://github.com/rudracodeshere/leetcodinnng/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rudracodeshere/leetcodinnng/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rudracodeshere/leetcodinnng/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rudracodeshere/leetcodinnng/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/rudracodeshere/leetcodinnng/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudracodeshere/leetcodinnng/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/rudracodeshere/leetcodinnng/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rudracodeshere/leetcodinnng/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rudracodeshere/leetcodinnng/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rudracodeshere/leetcodinnng/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rudracodeshere/leetcodinnng/tree/master/0242-valid-anagram) |
@@ -177,6 +179,7 @@
 | [0031-next-permutation](https://github.com/rudracodeshere/leetcodinnng/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rudracodeshere/leetcodinnng/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rudracodeshere/leetcodinnng/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rudracodeshere/leetcodinnng/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rudracodeshere/leetcodinnng/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0143-reorder-list) |
