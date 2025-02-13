@@ -1,21 +1,19 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        // bruteforce
-        //  for (int i = 0; i < nums.size(); i++) {
-        //      for (int j = i + 1; j < nums.size(); j++) {
-        //          if (nums[i] == nums[j])
-        //              return nums[i];
-        //      }
-        //  }
-        //  return INT_MIN;
+        int slow = 0;
+        int fast = 0;
+        do{
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }while(slow!=fast);
 
-        set<int> st;
-        for (int num : nums) {
-            if (st.contains(num))
-                return num;
-            st.insert(num);
+
+        fast = 0;
+        while(slow!=fast){
+            fast = nums[fast];
+            slow = nums[slow];
         }
-        return INT_MIN;
+        return slow;
     }
 };
