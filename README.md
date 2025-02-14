@@ -262,6 +262,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudracodeshere/leetcodinnng/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/rudracodeshere/leetcodinnng/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rudracodeshere/leetcodinnng/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudracodeshere/leetcodinnng/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/rudracodeshere/leetcodinnng/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
@@ -378,6 +379,7 @@
 | [0002-add-two-numbers](https://github.com/rudracodeshere/leetcodinnng/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rudracodeshere/leetcodinnng/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rudracodeshere/leetcodinnng/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/rudracodeshere/leetcodinnng/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rudracodeshere/leetcodinnng/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
