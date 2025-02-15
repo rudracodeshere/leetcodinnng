@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rudracodeshere/leetcodinnng/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudracodeshere/leetcodinnng/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rudracodeshere/leetcodinnng/tree/master/0417-pacific-atlantic-water-flow) |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
 | [0621-task-scheduler](https://github.com/rudracodeshere/leetcodinnng/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/rudracodeshere/leetcodinnng/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rudracodeshere/leetcodinnng/tree/master/0739-daily-temperatures) |
@@ -124,6 +125,7 @@
 | [0169-majority-element](https://github.com/rudracodeshere/leetcodinnng/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rudracodeshere/leetcodinnng/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/rudracodeshere/leetcodinnng/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -206,6 +208,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudracodeshere/leetcodinnng/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rudracodeshere/leetcodinnng/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/rudracodeshere/leetcodinnng/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rudracodeshere/leetcodinnng/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/rudracodeshere/leetcodinnng/tree/master/1023-time-based-key-value-store) |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rudracodeshere/leetcodinnng/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -425,4 +429,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rudracodeshere/leetcodinnng/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
