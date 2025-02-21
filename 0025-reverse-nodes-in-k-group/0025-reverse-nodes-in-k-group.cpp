@@ -8,42 +8,39 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* dummy = new ListNode(0, head);
-        ListNode* groupPrev = dummy;
-
-        while (true) {
-            ListNode* kth = getKth(groupPrev, k);
-            if (!kth) {
-                break;
-            }
-            ListNode* groupNext = kth->next;
-
-            ListNode* prev = kth->next;
-            ListNode* curr = groupPrev->next;
-            while (curr != groupNext) {
-                ListNode* tmp = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = tmp;
-            }
-
-            ListNode* tmp = groupPrev->next;
-            groupPrev->next = kth;
-            groupPrev = tmp;
+     if (head == nullptr || k == 1) {
+            return head;
         }
+
+        int length = 0;
+        ListNode* temp = head;
+        while (temp != nullptr) {
+            length++;
+            temp = temp->next;
+        }
+
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+        ListNode* prev = dummy;
+
+        while (length >= k) {
+            ListNode* curr = prev->next;
+            ListNode* next = curr->next;
+            
+            for (int i = 0; i < k - 1; i++) {
+                curr->next = next->next;
+                next->next = prev->next;
+                prev->next = next;
+                next = curr->next;
+            }
+            
+            prev= curr;
+            length -= k;
+        }
+        
         return dummy->next;
-    }
-
-private:
-    ListNode* getKth(ListNode* curr, int k) {
-        while (curr && k > 0) {
-            curr = curr->next;
-            k--;
-        }
-        return curr;
     }
 };
