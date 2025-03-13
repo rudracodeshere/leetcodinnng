@@ -1,46 +1,47 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-     if (head == nullptr || k == 1) {
-            return head;
-        }
-
-        int length = 0;
+        ListNode* prev = NULL;
         ListNode* temp = head;
-        while (temp != nullptr) {
-            length++;
-            temp = temp->next;
-        }
-
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-        ListNode* prev = dummy;
-
-        while (length >= k) {
-            ListNode* curr = prev->next;
-            ListNode* next = curr->next;
-            
-            for (int i = 0; i < k - 1; i++) {
-                curr->next = next->next;
-                next->next = prev->next;
-                prev->next = next;
-                next = curr->next;
+        while (temp != NULL) {
+            ListNode* kth = kthNode(temp, k);
+            if (kth == NULL) {
+                if (prev) {
+                    prev->next = temp;
+                }
+                break;
             }
-            
-            prev= curr;
-            length -= k;
+            ListNode* next = kth->next;
+            kth->next = NULL;
+            ListNode* rev = reverse(temp);
+            if (temp == head) {
+                head = kth;
+            } else {
+                prev->next = kth;
+            }
+            prev = temp;
+            temp = next;
         }
-        
-        return dummy->next;
+        return head;
+    }
+    ListNode* kthNode(ListNode* head, int k) {
+        ListNode* temp = head;
+       
+        while(temp && k >1){
+            temp = temp->next;
+            k--;
+        }
+        return temp;
+    }
+    ListNode* reverse(ListNode* head) {
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+        while (curr) {
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
     }
 };
