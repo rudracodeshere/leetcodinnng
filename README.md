@@ -48,6 +48,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rudracodeshere/leetcodinnng/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudracodeshere/leetcodinnng/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rudracodeshere/leetcodinnng/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/rudracodeshere/leetcodinnng/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
 | [0621-task-scheduler](https://github.com/rudracodeshere/leetcodinnng/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/rudracodeshere/leetcodinnng/tree/master/0695-max-area-of-island) |
