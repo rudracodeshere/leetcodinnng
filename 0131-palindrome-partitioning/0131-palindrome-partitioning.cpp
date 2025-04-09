@@ -1,34 +1,35 @@
 class Solution {
 public:
-    vector<vector<string>> partition(string s) {
-        vector<vector<string>> res;
-        vector<string> sub;
-        dfs(s, res, sub);
-        return res;
-    }
-    void dfs(string s, vector<vector<string>>& res, vector<string> sub) {
-        if (s.size() == 0) {
-            res.push_back(sub);
-            return;
-        }
-        for (int i = 0; i < s.size(); i++) {
-            string temp = s.substr(0, i + 1);
-            if (isPali(temp)) {
-                sub.push_back(temp);
-                dfs(s.substr(i + 1), res, sub);
-                sub.pop_back();
-            }
-        }
-    }
-    bool isPali(string& s) {
-        int l = 0;
-        int r = s.size() - 1;
-        while (l <= r) {
+    bool isPali(string s, int l, int r) {
+        while (l < r) {
             if (s[l] != s[r])
                 return false;
             l++;
             r--;
         }
         return true;
+    }
+
+    void helper(string s, int i, vector<vector<string>>& res,
+                vector<string>& curr) {
+
+        if (i == s.size()) {
+            res.push_back(curr);
+            return;
+        }
+        for (int j = i; j < s.size(); j++) {
+            string temp = s.substr(i, j - i + 1);
+            if (isPali(s, i, j)) {
+                curr.push_back(temp);
+                helper(s, j + 1, res, curr);
+                curr.pop_back();
+            }
+        }
+    }
+    vector<vector<string>> partition(string s) {
+        vector<vector<string>> res;
+        vector<string> curr;
+        helper(s, 0, res, curr);
+        return res;
     }
 };
