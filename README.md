@@ -35,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudracodeshere/leetcodinnng/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rudracodeshere/leetcodinnng/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/rudracodeshere/leetcodinnng/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudracodeshere/leetcodinnng/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudracodeshere/leetcodinnng/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rudracodeshere/leetcodinnng/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/rudracodeshere/leetcodinnng/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/rudracodeshere/leetcodinnng/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rudracodeshere/leetcodinnng/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudracodeshere/leetcodinnng/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rudracodeshere/leetcodinnng/tree/master/0169-majority-element) |
@@ -117,6 +119,7 @@
 | [0079-word-search](https://github.com/rudracodeshere/leetcodinnng/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rudracodeshere/leetcodinnng/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rudracodeshere/leetcodinnng/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/rudracodeshere/leetcodinnng/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rudracodeshere/leetcodinnng/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudracodeshere/leetcodinnng/tree/master/0424-longest-repeating-character-replacement) |
@@ -242,6 +245,7 @@
 | [0118-pascals-triangle](https://github.com/rudracodeshere/leetcodinnng/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudracodeshere/leetcodinnng/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rudracodeshere/leetcodinnng/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/rudracodeshere/leetcodinnng/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/rudracodeshere/leetcodinnng/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -465,4 +469,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rudracodeshere/leetcodinnng/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rudracodeshere/leetcodinnng/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
