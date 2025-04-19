@@ -52,6 +52,7 @@
 | [0455-assign-cookies](https://github.com/rudracodeshere/leetcodinnng/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rudracodeshere/leetcodinnng/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/rudracodeshere/leetcodinnng/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/rudracodeshere/leetcodinnng/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rudracodeshere/leetcodinnng/tree/master/0739-daily-temperatures) |
@@ -226,6 +227,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudracodeshere/leetcodinnng/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rudracodeshere/leetcodinnng/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/rudracodeshere/leetcodinnng/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rudracodeshere/leetcodinnng/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/rudracodeshere/leetcodinnng/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rudracodeshere/leetcodinnng/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/rudracodeshere/leetcodinnng/tree/master/1023-time-based-key-value-store) |
